@@ -9,7 +9,7 @@ public class Jogador {
     public int contarPontuacao(){
         int total=0;
         for (int i:pontuacao){
-            total +=i;
+            total+=i;
         }
         return total;
     }
